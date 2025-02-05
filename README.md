@@ -1,6 +1,6 @@
 ![ATRI.jpg](img%2FATRI.jpg)
 - 项目交流Q群：715616260
-- 警告：2025年2月5日起腾讯突然更新了相关检测机制，导致所有使用itchat库的项目均拉闸。使用itchat项目的库均出现了无法登录<code>错误码1102</code>的问题，并且登陆过itchat的微信号会导致不同程度的封号。事发突然，确实没有办法。在可以遇见的未来，itchat库预计将不会再可用，因此此分支放弃维护，接入微信的方案转而操作真实客户端完全安全的<code>wxauto</code>。请您转换到<code>WeChat-wxauto</code>分支以继续。
+- 警告：2025年2月5日起腾讯突然更新了相关检测机制，导致所有使用itchat库的项目均拉闸。使用itchat项目的库均出现了无法登录<code>错误码1102</code>的问题，并且登陆过itchat的微信号会导致不同程度的封号。事发突然，确实没有办法。在可以遇见的未来，itchat库预计将不会再可用，因此此分支放弃维护，接入微信的方案转而操作真实客户端完全安全的<code>wxauto</code>。请您转换到[<code>WeChat-wxauto</code>](https://github.com/umaru-233/My-Dream-Moments/blob/WeChat-wxauto)分支以继续。
 - 如果您有提供更好的方案，请提交PR!
 ---
 ## 简介
